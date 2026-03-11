@@ -1,0 +1,32 @@
+# Sanal ortam
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editör
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Video / Test dosyaları (büyük medya dosyaları)
+*.mp4
+*.avi
+*.mov
+
+# Log dosyaları
+*.log
